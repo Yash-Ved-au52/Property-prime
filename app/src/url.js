@@ -1,0 +1,1 @@
+export const API = "https://property-prime-backend.onrender.com";
